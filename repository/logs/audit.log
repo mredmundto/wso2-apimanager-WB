@@ -1,0 +1,17 @@
+[2018-02-20 16:26:14,483]  WARN -  Failed Administrator login attempt 'admin[-1]' at [2018-02-20 16:26:14,482+0800] 
+[2018-02-20 16:26:16,031]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:26:16,029+0800] 
+[2018-02-20 16:28:58,981]  INFO -  {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2018-02-20 16:28:59,125]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:28:59,124+0800] 
+[2018-02-20 16:28:59,390]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2018-02-20 16:28:59,431]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:28:59,430+0800] 
+[2018-02-20 16:29:42,157]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:29:42,156+0800] 
+[2018-02-20 16:29:42,291]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2018-02-20 16:29:42,331]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:29:42,330+0800] 
+[2018-02-20 16:30:01,885]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:30:01,885+0800] 
+[2018-02-20 16:30:01,969]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:30:01,967+0800] 
+[2018-02-20 16:30:02,077]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"WorldBank\",\"context\":\"\\\/wb\\\/1.0.0\",\"version\":\"1.0.0\"}"} 
+[2018-02-20 16:30:02,115]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:30:02,114+0800] 
+[2018-02-20 16:30:02,243]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:30:02,242+0800] 
+[2018-02-20 16:30:02,560]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:30:02,559+0800] 
+[2018-02-20 16:39:37,345]  INFO -  'admin@carbon.super [-1234]' logged in at [2018-02-20 16:39:37,345+0800] 
+[2018-02-20 16:40:15,104]  INFO -  {"performedBy":"admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"DefaultApplication\",\"tier\":\"Gold\",\"provider\":\"admin\",\"api_name\":\"WorldBank\",\"application_id\":1}"} 
